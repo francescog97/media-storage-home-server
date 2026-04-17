@@ -1,0 +1,312 @@
+# Catalogo media locale
+
+Generato il 17/04/26, 11:14:31.
+
+Sorgenti scansite: `D:\Media`
+
+Inventari offline inclusi: `inventario offline salvato: Silicon Valley (S05, S06)`
+
+Totale film/standalone: 276
+Totale serie TV: 14
+
+Note di classificazione:
+- Ho considerato come film anche documentari, speciali, concerti e contenuti standalone non episodici.
+- Ho ignorato sample, cartelle sottotitoli/subs, featurette, deleted scenes ed extra.
+- I contenuti in `[2categorize]` restano visibili come elementi da ordinare.
+- Le stagioni possono risultare incomplete se gli episodi locali non coprono l'intero totale noto della serie.
+
+## Film
+
+- 1917 (2019)
+- 50 First Dates (2004)
+- 50-50 (2011)
+- 500 giorni insieme (2009)
+- A Big Bold Beautiful Journey (2025) [da categorizzare]
+- A Star Is Born (2018)
+- About Time
+- Adventureland
+- All Relative
+- Allegiant
+- Alvin and the Chipmunks - Chipwrecked (2011)
+- Alvin and the Chipmunks - The Squeakquel (2009)
+- Alvin and the Chipmunks (2007)
+- American Reunion (2012)
+- Aquaman (2018)
+- Astro Boy (2009)
+- Asymmetric Disclosure (2025) [documentario]
+- Avatar
+- Avengers - Infinity War (2018)
+- Bad Boys For Life (2020)
+- Bad Teacher (2011)
+- Baked In Brooklyn
+- Barefoot (2014)
+- Batman v Superman - Dawn of Justice (2016)
+- Battledogs (2013)
+- Baywatch (2017)
+- Beauty and the Beast (2017)
+- Before We Go (2014)
+- Benvenuti al Sud (2010)
+- Beverly Hills Chihuahua
+- Big Hero 6 (2014)
+- Birds of Prey (2020)
+- Blade Runner 2049 (2017)
+- Bohemian Rhapsody (2018)
+- Borat (2006)
+- Borat Subsequent Moviefilm (2020)
+- Bowling for Columbine (2002) [documentario]
+- Cado Dalle Nubi
+- Camp Rock Disney Channel (2008)
+- Can You Keep a Secret (2019)
+- Captain America - The First Avenger (2011)
+- Captain America - The Winter Soldier (2014)
+- Celebrate Life in Honor of Chester Bennington (2017) [concerto]
+- Charlotte's Web (2006)
+- Coco (2017)
+- Collateral Beauty (2016)
+- Comedian (2002) [special]
+- Cursed Il Maleficio
+- Dalla Cina Con Furore Divx Vr@Nga Tntvillage (1972)
+- Delta Force (1986)
+- Doctor Strange (2016)
+- Dolittle (2020)
+- Dr Strangelove (1964)
+- Dracula - A Love Tale (2025)
+- Drinking Buddies (2013)
+- Dunkirk (2017)
+- Easy Girl (2010)
+- Eragon (2006)
+- Fantastic Beasts and Where to Find Them (2016)
+- Fantastic Four - Rise of the Silver Surfer (2007)
+- Fantastic Four (2005)
+- Ford v Ferrari (2019)
+- Friends with Benefits (2011)
+- G I Jane (1997)
+- Gamer
+- Gifted (2017)
+- Gone Girl (2014)
+- Gravity (2013)
+- Grease
+- Green Book (2018)
+- Grown Ups 2 (2013)
+- Guess Who's Coming to Dinner (1967)
+- Hail, Caesar! (2016)
+- Hancock
+- Happythankyoumoreplease
+- Harry Potter and the Chamber of Secrets (2002) [archiviato in 2 parti]
+- Harry Potter and the Deathly Hallows Part 1 (2010)
+- Harry Potter and the Deathly Hallows Part 2 (2011)
+- Harry Potter and the Goblet of Fire (2005)
+- Harry Potter and the Half-Blood Prince (2009)
+- Harry Potter and the Order of the Phoenix (2007)
+- Harry Potter and the Prisoner of Azkaban (2004)
+- Harry Potter and the Sorcerer's Stone (2001)
+- Hidden Figures (2016)
+- High School Musical (2006)
+- High School Musical 2 (2007)
+- High School Musical 3 - Senior Year (2008)
+- Honey Don't! (2025)
+- Horrible Bosses (2011)
+- Hot Summer Nights (2017)
+- Hot Tub Time Machine 2 (2015)
+- Hotel Transylvania (2012)
+- I Kill Giants (2018)
+- I Mercenari 2 C0p Fuori Sincro (2012)
+- Ice Age - Dawn of the Dinosaurs (2009)
+- Ice Age - The Meltdown (2006)
+- Ice Age (2002)
+- Il lato positivo (2012)
+- Il Principe Abusivo (2013)
+- Ildiscdelre 10
+- Inception
+- Inside Out (2015)
+- Insurgent (2015)
+- Io prima di te (2016)
+- Ip Man Cb01 (2008)
+- Iron Man (2008)
+- Iron Man 2 (2010)
+- Iron Man 3 (2013)
+- J Edgar Il Folle (2011)
+- Jackie Chan The Medallion
+- John Wick (2014)
+- Jumanji Welcome to the Jungle (2017)
+- Jurassic World Rebirth (2025)
+- Justice League (2017)
+- Keeping Up With The Joneses
+- Kingsman - The Golden Circle (2017)
+- Kingsman - The Secret Service (2014)
+- Knives Out (2019)
+- Kung Fu Panda (2008)
+- Kung Fu Panda 2 (2011)
+- La La Land
+- Lady Bird (2017)
+- Laggies (2014)
+- Le Regole Della Truffa
+- Libera Uscita (2011)
+- Little Women (2019)
+- Lo Spaccacuori Hmy (2007)
+- Logan Lucky (2017)
+- Looper (2012)
+- Louis Ck Netflix (2017)
+- Love & Other Drugs (2010)
+- Love, Simon (2018)
+- Luca (2021)
+- Madagascar - Escape 2 Africa (2008)
+- Madagascar 3 - Europe's Most Wanted (2012)
+- Magic Mike Xxl
+- Man on a Ledge (2012)
+- Man Up
+- Manchester by the Sea (2016)
+- Maze Runner The Scorch Trials (2015)
+- Me and Earl and The Dying Girl
+- Meet the Robinsons (2007)
+- Minions R6 Race (2015)
+- Moana (2016)
+- Molly's Game (2017)
+- Mr Popper's Penguins (2011)
+- Mrright
+- Mulan (2020)
+- Murder on the Orient Express (2017)
+- Napoleon (2023)
+- Neighbors 2 Sorority Rising
+- No Strings Attached (2011)
+- Nobody 2 (2025)
+- Norman
+- Now You See Me (2013)
+- Ocean's Eight (2018)
+- Once Upon a Time in Hollywood (2019)
+- One Night
+- Palo Alto
+- Parasite (2019)
+- Parthenope (2024)
+- Percy Jackson & the Olympians - The Lightning Thief (2010)
+- Pitch Perfect (2012)
+- Pitch Perfect 2 (2015)
+- Planet 51 (2009)
+- Playing It Cool
+- Quasi amici (2011)
+- Quo vado (2016)
+- Red Sparrow (2018)
+- Robin Hood (2018)
+- Rogue One - A Star Wars Story (2016)
+- Ruby Sparks
+- Sansone By Nero69 (2010)
+- School of Rock
+- Shark Tale
+- Shrek (2001)
+- Shrek Forever After (2010)
+- Shrek the Halls (2007)
+- Shrek the Third (2007)
+- Sicilian Ghost Story (2017)
+- Sincerely (2020) [special]
+- Sky High (2005)
+- Sleeping With Other People's
+- Soul (2020)
+- Speed Racer (2008)
+- Spider-Man - Homecoming (2017)
+- Spider-Man (2002)
+- Spider-Man 2 (2004)
+- Spider-Man 3 (2007)
+- Spongebob Il Film
+- Spy (2015)
+- Star Wars Episode I The Phantom Menace (1999)
+- Star Wars Episode II Attack of the Clones (2002)
+- Star Wars Episode III Revenge of the Sith (2005)
+- Star Wars Episode IV A New Hope (1977)
+- Star Wars Episode V The Empire Strikes Back (1980)
+- Star Wars Episode VI Return of the Jedi (1983)
+- Star Wars Episode VII The Force Awakens (2015)
+- Steve Jobs (2015)
+- Suburbicon (2017)
+- Suicide Squad (2016)
+- Superhero Il Più Dotato Fra I Supereroi
+- Superman Returns (2006)
+- Swiss Army Man (2016)
+- Tangled (2010)
+- Terminator - Dark Fate (2019)
+- Terminator 2 - Judgment Day (1991)
+- Terminator 3 - Rise of the Machines (2003)
+- Terminator Genisys (2015)
+- Terminator Salvation (2009)
+- The Amazing Spider-Man (2012)
+- The Big Sick (2017)
+- The Dictator (2012)
+- The Duff
+- The Edge of Seventeen
+- The Fellowship of the Ring (2001)
+- The First Time
+- The Foreigner (2017)
+- The Founder (2016)
+- The Greatest Showman (2017)
+- The Hustle (2019)
+- The Incredible Hulk (2008)
+- The Intern (2015)
+- The Karate Kid Free (2010)
+- The Karate Kid La Leggenda Continua Nws (2010)
+- The Kids Are All Right
+- The King of Staten Island (2020)
+- The Kissing Booth (2018)
+- The Layover (2017)
+- The Lifeguard
+- The Losers (2010)
+- The Matrix (1999)
+- The Matrix Reloaded (2003)
+- The Matrix Resurrections (2021)
+- The Matrix Revolutions (2003)
+- The Mule (2018)
+- The Naked Gun (2025)
+- The Nice Guys
+- The Perks of Being A Wallflower (2012)
+- The Post (2017)
+- The Secret Life of Walter Mitty (2013)
+- The Social Network
+- The Sorcerer's Apprentice (2010)
+- The Substance (2024)
+- The Terminator (1984)
+- The Theory of Everything (2014)
+- The Time That Remains (2009)
+- The To Do List
+- The Voices (2014)
+- The Way, Way Back (2013)
+- This Is Where I Leave You
+- Thor - Ragnarok (2017)
+- Thor (2011)
+- Tmnt Teenage Mutant Ninja Turtles Lions (2007)
+- Top Gun (1986)
+- Tower Heist (2011)
+- Toy Story (1995)
+- Toy Story 2 (1999)
+- Toy Story 3 (2010)
+- Transformers (2007)
+- Tre Uomini E Una Pecora
+- Tutti Vogliono Qualcosa (2016)
+- Two Night Stand
+- Ulisse (1954)
+- Una Notte Al Museo (2006)
+- Vacation
+- Valerian and the City of a Thousand Planets (2017)
+- Venom (2018)
+- Very Good Girls
+- Wall-E (2008)
+- We Are Your Friends (2015)
+- What If (2013)
+- What's Your Number
+- Wonder (2017)
+- X-Men - First Class (2011)
+- Yes Man
+
+## Serie TV
+
+- 13 Reasons Why: S02: E01-E13 (13/13 episodi, completa)
+- Catch-22: S01: E01-E06 (6/6 episodi, completa)
+- Friends: S00: E01 (1 episodi rilevati, non verificata)
+- House of Cards: S01: E01-E13 (13/13 episodi, completa); S02: E01-E13 (13/13 episodi, completa); S03: E01-E13 (13/13 episodi, completa)
+- Money Heist: S01: E01-E13 (13/15 episodi, incompleta); S02: E01-E06 (6 episodi rilevati, non verificata)
+- Myhero2: stagione ?: E18 (1 episodi rilevati, incompleta)
+- Silicon Valley: S01: E01-E08 (8/8 episodi, completa); S02: E01-E10 (10/10 episodi, completa); S03: E01-E10 (10/10 episodi, completa); S04: E01-E10 (10/10 episodi, completa); S05: E01-E08 (8/8 episodi, completa); S06: E01-E07 (7/7 episodi, completa)
+- Steins Gate Zero: S01: E01-E09 (9/23 episodi, incompleta)
+- Stranger Things: S01: E01-E08 (8/8 episodi, completa); S02: E01-E09 (9/9 episodi, completa)
+- The Falcon and the Winter Soldier: S01: E01-E04 (4/6 episodi, incompleta)
+- The Good Doctor: S03: E01-E08 (8/20 episodi, incompleta)
+- The Mandalorian: S01: E01-E08 (8/8 episodi, completa)
+- Westworld: S01: E01-E10 (10/10 episodi, completa); S02: E01-E10 (10/10 episodi, completa)
+- Why Women Kill: S01: E03-E06 (4/10 episodi, incompleta)

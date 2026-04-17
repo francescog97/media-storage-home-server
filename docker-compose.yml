@@ -1,0 +1,50 @@
+# If Tailscale in Docker feels unnecessary, install Tailscale on the Debian host
+# and keep only Jellyfin and Uptime Kuma in this compose file.
+services:
+  tailscale:
+    image: tailscale/tailscale:latest
+    container_name: tailscale
+    hostname: ${TAILSCALE_HOSTNAME}
+    network_mode: host
+    cap_add:
+      - NET_ADMIN
+      - NET_RAW
+    devices:
+      - /dev/net/tun:/dev/net/tun
+    environment:
+      TS_AUTHKEY: ${TS_AUTHKEY}
+      TS_STATE_DIR: /var/lib/tailscale
+      TS_USERSPACE: "false"
+      TS_ACCEPT_DNS: "false"
+      TS_EXTRA_ARGS: --ssh
+    volumes:
+      - ./appdata/tailscale/state:/var/lib/tailscale
+    restart: unless-stopped
+
+  jellyfin:
+    image: jellyfin/jellyfin:latest
+    container_name: jellyfin
+    ports:
+      - "8096:8096/tcp"
+      - "7359:7359/udp"
+    environment:
+      TZ: ${TZ}
+      JELLYFIN_PublishedServerUrl: ${JELLYFIN_PUBLISHED_URL}
+    volumes:
+      - ./appdata/jellyfin/config:/config
+      - ./appdata/jellyfin/cache:/cache
+      - ${MEDIA_PATH}:/media:ro
+    devices:
+      - /dev/dri:/dev/dri
+    restart: unless-stopped
+
+  uptime-kuma:
+    image: louislam/uptime-kuma:2
+    container_name: uptime-kuma
+    ports:
+      - "3001:3001"
+    environment:
+      TZ: ${TZ}
+    volumes:
+      - ./appdata/uptime-kuma:/app/data
+    restart: unless-stopped

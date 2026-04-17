@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Catalogo Media</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Archivio locale</p>
+          <h1>Film e serie TV della libreria locale</h1>
+          <p class="lede">
+            Catalogo locale con locandine recuperate da internet, libreria divisa per film e serie TV
+            e stato delle stagioni in base agli episodi disponibili.
+          </p>
+          <p class="hero-subnote" id="sourceRoots">-</p>
+          <div class="hero-actions">
+            <a class="hero-link" href="#film">Vai ai film</a>
+            <a class="hero-link" href="#serie">Vai alle serie</a>
+            <a class="hero-link subtle" href="/catalogo-media.md">Apri il report Markdown</a>
+          </div>
+        </div>
+        <div class="hero-panel">
+          <div class="stat-card">
+            <span class="stat-label">Film</span>
+            <strong id="movieCount">-</strong>
+          </div>
+          <div class="stat-card">
+            <span class="stat-label">Serie TV</span>
+            <strong id="seriesCount">-</strong>
+          </div>
+          <div class="stat-card">
+            <span class="stat-label">Aggiornato</span>
+            <strong id="generatedAt">-</strong>
+          </div>
+        </div>
+      </header>
+
+      <main class="content">
+        <section class="toolbar">
+          <label class="search-shell" for="searchInput">
+            <span>Cerca</span>
+            <input id="searchInput" type="search" placeholder="Titolo, tag, stagione...">
+          </label>
+          <div class="view-switch" aria-label="Filtro vista">
+            <button class="view-button is-active" type="button" data-view="all">Tutto</button>
+            <button class="view-button" type="button" data-view="movies">Film</button>
+            <button class="view-button" type="button" data-view="series">Serie TV</button>
+          </div>
+        </section>
+
+        <section class="catalog-section" id="film">
+          <div class="section-heading">
+            <div>
+              <p class="section-kicker">Sezione 01</p>
+              <h2>Film</h2>
+            </div>
+            <p class="section-meta" id="movieMeta">-</p>
+          </div>
+          <div class="grid" id="movieGrid"></div>
+        </section>
+
+        <section class="catalog-section" id="serie">
+          <div class="section-heading">
+            <div>
+              <p class="section-kicker">Sezione 02</p>
+              <h2>Serie TV</h2>
+            </div>
+            <p class="section-meta" id="seriesMeta">-</p>
+          </div>
+          <div class="grid series-grid" id="seriesGrid"></div>
+        </section>
+
+        <section class="empty-state is-hidden" id="emptyState">
+          <h3>Nessun risultato</h3>
+          <p>Prova a cambiare filtro o usare una ricerca meno specifica.</p>
+        </section>
+      </main>
+    </div>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+  </html>

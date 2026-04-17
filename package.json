@@ -1,0 +1,9 @@
+{
+  "name": "media-storage-home-server",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:catalog": "node scripts/build-catalog.mjs",
+    "serve:catalog": "node scripts/serve-local.mjs"
+  }
+}
